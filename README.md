@@ -2,7 +2,7 @@ Practical for 3rd semester
 Subject code                 Subject Name
 1. LPCIT-101                     Data Structure Lab
 2. LPCIT-102                    OOP Lab
-3. LPCIT-103                    DCCL Lab
+3. LPCIT-103                    DCCN Lab
 4. LESIT-101                     DCLD Lab
 
 
